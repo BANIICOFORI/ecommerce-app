@@ -21,8 +21,8 @@ const Header = () => {
             <div className="col-4">
               <p className="text-end text-white mb-0">
                 Hotline:
-                <a className="text-white" href="tel:+91 8264954234">
-                  +91 8264954234
+                <a className="text-white" href="tel:+233 244852180">
+                  +233 244852180
                 </a>
               </p>
             </div>
