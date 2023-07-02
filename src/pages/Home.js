@@ -218,10 +218,10 @@ const Home = () => {
           <div className="col-12">
             <h3 className="section-heading">Featured Collection</h3>
           </div>
-          {/* <ProductCard />
+          <ProductCard />
           <ProductCard /> 
           <ProductCard />
-          <ProductCard />*/}
+          <ProductCard />
         </div>
       </Container>
       <Container class1="special-wrapper py-5 home-wrapper-2">
